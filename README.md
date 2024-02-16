@@ -15,7 +15,7 @@ Before running the script, ensure you have the following installed:
 1. Clone this repository to your local machine or download the script.
 2. Make sure you have the MNIST dataset files (`train-images.idx3-ubyte` and `train-labels.idx1-ubyte`) available locally. You can download them from [here](http://yann.lecun.com/exdb/mnist/).
 3. Update the `images_path` and `labels_path` variables in the script with the correct paths to your local MNIST dataset files.
-4. Run the script `neural_network_mnist.py`.
+4. Run the script `main.py`.
 
 ## Overview
 
